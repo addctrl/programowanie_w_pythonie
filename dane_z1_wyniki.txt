@@ -1,0 +1,3 @@
+1. Najjasniejszy: 221, Najciemniejszy: 7
+2. Wiersze do usuniecia: 149
+3. Piksele kontrastujace: 753

@@ -58,7 +58,7 @@ def sequence_d(n):
     return sequence_d(n - 1) + sequence_d(n - 3)
 
 def main():
-    print("--- Generowanie ciągów (Optimized Recursion) ---")
+    print("--- Generowanie ciągów (Zoptymalizowane rekurencje) ---")
     
     try:
         n = int(input("Podaj liczbę wyrazów (n): "))
