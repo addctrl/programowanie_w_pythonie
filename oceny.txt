@@ -1,0 +1,460 @@
+KS geo 6 1 2
+AJ jhi 2 4 6 4 4 5 5
+LA inf 5 5 4 6 5 3 2
+NM bio 3 4 6 3
+JG jhi 5 4 2 6 2
+JN inf 2 4
+DM mat 3
+PP che 1 3 5 1 5 6
+SJ bio 6 4
+UI jan 2 3 2 1 4 1 1
+HE bio 4
+RO jhi 2 4 1 3 5 1
+GD jpo 5 1 1
+KC mat 4
+JG mat 6 4
+OG prz 1 6 6 2 3 5 2
+TD che 2 1 3
+SD wos 6 1 5 4 6 2
+OO hit 2 2 6
+DM geo 3
+CN che 5 3 4 6 6
+RC fiz 2
+HE che 5 3
+IA wos 2 5 2 4 6 2
+PP prz 4 2 5 5
+ZP wos 5 6 1 6 5
+AE hit 5 3 2 3
+JG jan 6 3 2
+OG jhi 1 4 6
+RC hit 5 2 6 6
+OU jhi 1 6 6 2
+RI geo 6 2 2 6 5 6 6
+OW fiz 3 3
+JP jhi 3
+JC jpo 6 5 5 5 4
+AJ mat 4 5
+JP prz 2 4 5 2 6 6
+DM fiz 2 2
+KC wos 3 4 1 2 5 6
+PP wos 5
+PH jpo 2 2 3 2
+ZP jhi 4 1 6 1 4
+NM jpo 1 1 5
+EG hit 3 3 6
+OD fiz 5 5
+RC jhi 1 5 3 1 4
+FB inf 5 2 1 4 5
+FB jpo 6 3 6 6 3 5
+UE bio 3 1 1 2 5 3 6
+ZP che 1 6
+OD wos 6 3 4 1 4 4 4
+DJ che 4 5
+JG inf 6 2 5 5 3 4
+TD mat 3 4 4 4 3
+HD inf 2 2 4 3 2 5
+PH fiz 6 5
+FI bio 6 2 1 2
+EG bio 2 5 6 1 4 6 4
+JP mat 6
+ES fiz 1 1 6 5
+OD inf 4 4
+DM che 2 1
+DR che 3 3 4 1 1
+OS geo 5 4 4 1 1 2
+TD jan 3 2 6 2
+HA jan 4 1
+SJ che 1 4
+TD jhi 2 5 5 3 2 4
+NM fiz 5 5 5 4
+EP wos 6 6
+LH wos 5 3 4 2 4 2
+KC prz 5 5 6
+RR geo 5 5 5 2 6
+RU geo 4 6
+JC hit 5 3 3 2 3 2
+KC jhi 2 5 5 3 6
+KZ fiz 5 4
+NH bio 5
+LA bio 1 5 5 5
+AE jpo 2 2 3 2 4 1
+PP mat 2 1
+FB hit 5 6 4
+ZP bio 4
+LA jpo 2 6 1 1 3 4
+SD prz 6 4
+OO jhi 5 6 5 3 1 5 2
+MH che 6 3 6 2
+JC prz 6 4 2 3 3
+RC jan 6
+JN bio 3 6 4 1
+OH geo 6 6 4 1 2 2 6
+FT bio 6 1 5 3 3 2
+UJ geo 4 5 4 5 6 2
+NH che 1 4 4 4 3
+JC che 5 1 6 1 6 4 2
+LA jan 4 2
+KK che 6 6
+MI jpo 5
+FB jhi 3 5 6 2
+AE bio 4 1 4
+RI wos 6 6
+TD prz 1 2 3
+UI geo 1 1 1
+RC che 1 6 5
+UJ hit 3 1 4
+EG prz 1 3 6
+RI fiz 4 5 3 3
+OD bio 2 3 5 1 3 5 4
+ZP mat 5 6 6 2 2 2 4
+OG inf 3 5 6
+FI wos 6 2 2 1 5 2 3
+JG jpo 6 3 5 3 5
+OD hit 6 5 6
+OG wos
+DJ inf 4 6
+OS inf 4 2 5 2 6 6 2
+PH bio 5 1 1 6
+JZ prz 3 1 3 3 2 6
+OD jan 2
+MH mat 3 6 1 4 3
+PP jhi 5 2 2 2
+WN geo 3 6
+PP inf 6 2 5 6 5 6 3
+PB bio 5 3 6 4 5
+NM jan 5 4 6
+RC bio 1 2 5 5
+KC bio
+PB fiz 5 6 2 6 5 2 4
+PH wos 2 3 3 5 2 1
+CN fiz 4 4 3
+JC bio 5 4 1 3 6
+HA jhi 2 4 1 2 6
+DM bio 4 5 6 5 5 6
+JC jan 1 1
+LA geo 4 5
+ES bio 3 6 5 5 4 2
+OW jhi 5 2 2
+PT jhi 1 1 4 2 4
+NH jpo 5 1 3 1
+JC wos 2 6 3
+SJ jhi 3
+JO mat 6 2 3 6 3 5
+MT jan 4 6 6 1
+UJ che 4 2
+NH wos 6
+GD inf 5 5 6 3 1
+NM hit 4 2
+TS hit 3 1 4 3
+HD prz 2 1 3 4
+OU jpo 2 4 6
+WN jan 2 3 3 5
+PP geo 2 1 6 4 2
+OH che 6 4 1 6
+KC jpo 5 4
+AZ wos 2 6 4 6 3 2
+RO che 2 1 4 1 1 2
+JO prz 5
+JC jhi
+UI hit 4 4 4 2 3 3
+HD fiz 5 1
+JC fiz 4 6 2
+CN mat 2 4
+UJ inf 5 1 6 5 3 3
+OD che 3 6 6
+AJ prz 1 1
+MI prz 6 6
+ZP geo 4 1 1 6
+GD mat 1 6 4 6 3 2 2
+RO mat 6 1 6 3 4 1
+KK wos 5 1 3 4 6
+FB fiz 2 6 1 2 5 4 3
+HE fiz 3
+RC inf 3 3 2 1
+AE geo 3 2 5 3 6 6 2
+JP hit 5 2 5 1 3 6
+CN bio 1 1 5 2 3 1
+KK jpo 2 6
+OS prz 2
+MI hit 6 1 3 1 1 3 5
+NH prz 3 6 5 1 1 6
+MI geo 3 6 3 6
+OW wos 6
+TD inf 1 2 2 3 4 5
+KZ jhi 3 5 5 5
+WN prz 1 1 2
+OU bio 4 1 5 5 5 1
+AE inf
+NM geo 6 1 2 4 6 3 5
+UI fiz 4 3 2
+FB geo 6 2 3 5 4
+KK jhi 5 5 6 4 3 5
+WN bio 6 3 6 2 4 4 5
+RR inf 1 1 5 5 2
+MT wos 1 2 1 2
+OS che 6 5 1 4 6 6
+PP fiz 5 3 1
+HE jan 5 6 5 5
+JZ wos 1 3 1 5
+OH wos 4 5 4 1 1 1 3
+OU mat 5 5 2 5 3
+SJ fiz 1 2
+RR jpo 6 2
+EP prz
+JP che 2
+DR geo 5
+FB che 4 6 1 6
+PH mat 5 1 4 5 2 2 6
+WN jhi 3 6 3
+MT mat 4 5
+GW hit 6 2 1 3 3 5
+FB wos 2 4 1 3 4 2
+ZP fiz 2 3 6 1
+CN jan
+AE wos 1 3
+PT fiz 2 3
+KK inf 5
+OS bio 6 3 4
+TD hit 4 3 3
+AZ bio 5
+MT inf 3 5 2 2 1
+UE che 6 3 6 3
+JP wos 3 4
+RO geo 3 1
+UJ fiz 2 5 1 2 5
+LA hit 6 6 6 6 2 5 4
+NH jan 1 3 1 4 3 4
+AZ prz 6 1 6 3 4
+JC mat 2 6 6
+WN fiz 6 1 2 5 5
+OW prz 6 5 5 5 3 4
+RR jan 5 3 3
+JZ che 2
+KZ geo 2 6 4
+CN jhi 2 1 1 1 5 4
+KC inf 6
+JC inf 6 2 1 2 6 6
+JZ fiz
+PH hit 1 3 6
+NM jhi 4 2 2 2
+JZ geo 6 5 6 4 5
+OG fiz 6 1 2 1
+TD geo 4 2 4 1 3 2 1
+MH jhi 1 5
+UE jpo 1 3 6 6 3
+JO jhi 1 5 4 6 1 4 1
+FT prz 5 6 4 4 4 4
+RI jan 3 3 6
+RC mat 4 1 5
+RC prz 2 1 5 5
+WN inf 1 6
+KK geo
+FB jan 4 6 4 2 3
+PP jpo 2 5 6 1 2
+RI bio 3 6 4 3
+OS fiz 3 3 2
+OF prz 3 1 6 5 5 3
+EG jan 5
+KC che 3 5 5 1 6 3
+MT hit 3 5 5 2 5 5
+NM wos 5 6
+NM prz 5 3
+SJ prz 5 4 6 3
+OD prz 6 1 3 3
+HA mat 4 3 4 2 5 3
+JZ jhi 6
+NH fiz 2 2 1 5 4
+WL hit 4 1 4 5 5 5 1
+FT inf 3 1 1
+MH jpo 4 1 1 2 4 1
+ES che 1 6 6 2
+PB hit 4 4 1
+OO geo 3
+OS mat 2
+HA geo 3 3 1 2 5 2
+JZ inf 4 5 3 4
+CN prz 6 3 5 2 4 4
+ES inf 6 5 3 5 4 6 1
+KS jhi 6 6 5 5
+RI jhi 5 3 2
+OS jhi 1 2 1 1
+JZ mat 6 3 3 3 1 1 6
+KC fiz 6 4 2 1 2 4 1
+UI jhi 6
+JO inf 1 6 2 4 5
+AJ inf 2 3 6 5
+UI prz 4 4 2 5 3 5
+LA prz 4 5 2 4 2
+FT jpo 4 2 1 5 4
+CN jpo 3 6 6 2 6
+OU che 4 5
+KA hit 6
+GD che 5 1 5 5 2 6 4
+DM inf 6 4
+PH prz 2 4 1 3
+JN mat 3 6 4 6
+OL jhi 4 5 3 4
+MT geo 2 2 3 1 6 6
+HD hit 6
+KK prz 2 3 5 5 1 1
+OG hit 1 1 3 1 1 6
+GD jan 4 2 2 2 6
+KK fiz 2 1 3 6 4 1 5
+OH jhi 5 2 1 2 2 1 2
+JZ hit 3 6 3 3 4
+OH jpo 5 4 6 6 5
+DR jhi
+WN che 3 6
+EN wos 5 3
+MT jhi 1 4
+HE geo 4 6 4 5 1 6 6
+EG inf 2 5 3 3 4
+ZP inf 1
+RC wos 2 4 4
+ZP jpo 6 1 2
+OD jpo 4 2 6 1 6 2
+PH jhi 3 5 1 6
+IA jan 5 6 6 4 3
+PH inf 3 5 6 6 6 6 5
+OG geo 3 5 1
+ES jpo 4 3 4 3
+KA jpo 2 6 6 2 4 3
+OO wos 2 3 2 2 6
+LA che 4 2 1 1 6 6 4
+HE jpo 5 6 4 6 6
+RL fiz 2 2 6 1 5 1
+RR mat 4 6 4 5 5 3
+DM jpo 1 6 1 1 5 6 3
+NH hit 6 4 2 1 6 5 5
+OG mat 6 1 3 2
+OW bio 3 6 4 6 4 6 5
+RL wos 6 5 3
+JO fiz 5 1 5 5 3
+KK mat 4
+JO hit 6 6 1
+MH bio
+AE prz 5 1 2 3 2 5 1
+TD bio 5 5 3 6 4 3
+OH mat 6 3 1 3 1
+MI jhi 1 5 5 3 1 6 4
+OL fiz 2 1 6 3 6 3
+TD wos 2
+PT prz 6 5 2 4 6 5
+RR bio 1 4 1 5 2 6
+WL mat 6 1 1 3 6 3
+AZ jhi 2 1 5 2
+OG bio 6 2 5 2
+OS jpo 5 1 2 5 3 2 3
+ES mat 5 1 6 3 2
+SD jpo 3 5 6 4 6 4 6
+LA jhi 2 6 2 5 2
+TD jpo 6 2 2 2 6
+MC fiz 6 1 1 4 3 4
+KK jan 3 6 2
+AZ jpo 1 1 2 4
+WN mat 6 2 5
+AJ che 3
+SD che 6 4 6
+KS jan 1 1 2 3 3 1
+JZ jpo 3
+NM che 2 6 2 3 5 1 1
+SJ wos 1 5
+AZ inf 2 1 6 5 1 4 5
+OD mat 6 1 4 2 1 4 1
+PT jpo 6 5 3 2
+MH prz 2 2 4 5 5 4 1
+JO jan 4 4 2 3
+EP fiz 5 6 3
+GD fiz 1 6
+NH inf 1 4 5 6 5 2
+OH jan 3 2 3
+PP hit 3 6 5
+AE jan 2 4 1 3 5
+AZ geo 1 6
+JZ jan 5 6 1 2 3 2 6
+MI mat 5 5 3 1 3 2 5
+OS wos 1
+HA inf 1 1 2 2
+KA inf 5 3 2 2 3 6 6
+SJ jpo 1 4 1 2 2
+TD fiz 5 2 4 5 6 6 1
+FT wos 2 5 1 3 3 6 5
+JP geo 4 1 5 2 4
+JC geo 4 6 6 3 3 3
+EN hit 6 6
+OO fiz 2 6 6 3
+EG wos
+JP jan
+NM inf 2 4 4 4
+WN jpo 6 2
+MH jan 6 1 2
+OU prz 1 4
+OO che 2 5 2 5 4
+UI inf 3 4 1 1
+EG mat 6 5 2 6
+MT bio 5 1 6 2
+FT che 2 2 4 6 4
+OU jan 6 4 5 2 3 4
+WN hit 6 2 3 4 1 2 1
+GW inf 6 6 1 6 4 6
+DM prz 6 2 2
+OF fiz 4 3
+AJ bio 2 5 1 6 4 2
+OG jpo 3 4 3 6 3 4 6
+RI che 3 3 5
+RO hit 5 5 1
+OF wos 6 1 3
+OL bio 5 2 5 3 6 2
+KK hit 2 5 4
+CN hit 2 5 4
+OS hit 3 5
+OU hit 1
+WL jhi 3
+PP jan 4 4 5
+PP bio 3 6 3 5 6 4
+DJ jpo 2 6 3 5
+RR fiz 2 4 6
+SD jhi 4
+GD bio 4 2 4 4 4 3 6
+JP jpo 4 6
+MI che 6 2 5 5 4 2 3
+NH geo
+DJ jhi 3 2 4 6 5 2 1
+SD hit 5 6
+RO inf 2
+ES prz 5 1
+RR jhi 6 5 6
+JP inf 1 5
+PH jan 1 6
+DJ hit 3 4 5 4 5 6 5
+NM mat 2
+WL jan 6 1 3 5 3 1
+GD geo 3 4 3 2 1
+MT che
+MI jan 5 2 4 3 3 6
+AJ jpo
+DM wos 2
+PH che 5 2 2
+TS jan 6 3 6 5 1 1 6
+MI wos 5 4 5 4 5 2
+AZ fiz 4 4 4 6 5 3
+DJ prz 3 1
+UE wos 4 1 6 1 4 3 6
+JP bio 1 5 1 3
+HD wos 2 1
+KK bio 3 2 6 2
+OD jhi 6
+UI bio 4 2 3 2 5
+JZ bio 5 2 4 3 4
+FB bio 3 4
+JP fiz 2 2 5 1
+JO geo 6
+OS jan 4
+SD jan 6 3 1 4 1 4
+WN wos 5 4
+KC geo 5 1 1 1
+DJ mat 4 2 3 1 1 3 2
+OU geo 6
+EP jpo 6 3 2 5 5 6 1
+OH fiz 1 4 1 1 4
+JO wos 2 6 5 4 2 6
