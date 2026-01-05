@@ -1,17 +1,3 @@
-"""
-ZADANIE Z1: 
-Translator alfabetu Morse'a
-Program tłumaczy tekst na alfabet Morse'a i odwrotnie.
-
-DANE WEJŚCIOWE:
-- Ciąg znaków alfanumerycznych (A-Z, 0-9).
-- Zgodnie z poleceniem: bez polskich znaków i bez spacji.
-
-STRUKTURA:
-- Wykorzystuje słownik do mapowania O(1).
-- Obsługuje zarówno kodowanie (Tekst -> Morse) jak i dekodowanie (Morse -> Tekst).
-"""
-
 # Słownik mapujący znaki na kod Morse'a (standard międzynarodowy)
 MORSE_CODE_DICT = {
     'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 

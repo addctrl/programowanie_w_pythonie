@@ -1,11 +1,4 @@
-"""
-Ćwiczenie 3:
-Program oblicza całki nieoznaczone i oznaczone.
-Użytkownik wprowadza funkcję, zmienną oraz (opcjonalnie) granice całkowania.
-Obsługuje nieskończoność (oznaczenie 'oo').
-"""
-
-from sympy import symbols, integrate, sympify, SympifyError, oo, pprint, init_printing
+from sympy import integrate, sympify, SympifyError, oo, pprint, init_printing
 from sympy.core.symbol import Symbol
 
 def calculate_integral() -> None:

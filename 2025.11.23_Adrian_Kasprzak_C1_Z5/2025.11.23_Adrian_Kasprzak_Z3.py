@@ -1,13 +1,3 @@
-"""
-Zadanie 3:
-Program generuje 10-cyfrową liczbę naturalną (jako string) spełniającą szereg reguł:
-1. Nie zaczyna się od 0.
-2. Suma cyfr >= 30.
-3. Sąsiednie cyfry różne, wyjątek: dwie ostatnie.
-4. Trzecia cyfra (i == 2) musi być nieparzysta.
-Program przeprowadza test na próbie 10 000 liczb, aby zweryfikować poprawność algorytmu.
-"""
-
 import random
 
 def validate_number_rules(num_str: str) -> tuple[bool, str]:

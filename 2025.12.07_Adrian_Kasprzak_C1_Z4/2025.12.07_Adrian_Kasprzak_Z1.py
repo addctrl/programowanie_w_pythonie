@@ -1,11 +1,3 @@
-"""
-Zadanie 1:
-Program realizujący szyfrowanie i deszyfrowanie tekstu.
-Umożliwia wprowadzanie własnych danych lub użycie domyślnego tekstu z zadania.
-"""
-
-import sys
-
 # Stały tekst z zadania
 DEFAULT_TEXT = "JESTEM STUDENTEM INFORMATYKI UNIWERSYTETU POMORSKIEGO"
 

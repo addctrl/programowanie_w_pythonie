@@ -1,13 +1,3 @@
-"""
-ZADANIE C5:
-Napisz program zawierający funkcję, który sprawdza, czy dana liczba naturalna 
-jest "podzielna", tj. jest większa od zera i dzieli się całkowicie przez 
-sumę swoich cyfr (taką liczbą jest np. 21). 
-Ponadto - zgodnie z wyborem użytkownika - program powinien generować 
-wszystkie liczby podzielne do 10000.
-"""
-
-
 def digit_sum(n):
     """
     Funkcja pomocnicza obliczająca sumę cyfr liczby.

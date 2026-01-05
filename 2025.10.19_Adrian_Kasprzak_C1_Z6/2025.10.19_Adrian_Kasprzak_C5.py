@@ -1,9 +1,3 @@
-"""
-ZADANIE C5:
-Wykonaj operacje na "zbiorach" reprezentowanych przez listy v1, v2, v3.
-Wymóg: korzystaj tylko z metod list (bez rzutowania na set).
-"""
-
 def main():
     # Dane wejściowe
     v1 = [1, 3, 5, 7, 9]

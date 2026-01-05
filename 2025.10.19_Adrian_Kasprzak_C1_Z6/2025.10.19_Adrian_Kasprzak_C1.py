@@ -1,13 +1,3 @@
-"""
-ZADANIE C1:
-Napisz program, który wykonuje kolejno następujące operacje:
-a) tworzy plik o nazwie dane_c1.txt i przepisuje do niego w kolejnych wierszach nazwy kolejnych miesięcy roku. Nazwy
-miesięcy są zdefiniowane w programie w postaci listy,
-b) wypisuje na ekranie tylko te miesiące zawarte w pliku dane_c1.txt, których nazwa zaczyna się na literę "m".
-c) wypisuje do nowego pliku o nazwie wyniki_c1.txt nazwy wszystkich miesięcy znajdujących się w pliku dane_c1.txt,
-których nazwa liczy więcej niż 7 znaków.
-"""
-
 def main():
     # Lista z nazwami miesięcy (małe litery, bo tak zazwyczaj są w kalendarzu)
     miesiace = [

@@ -1,21 +1,3 @@
-"""
-ZADANIE C1: 
-System generowania i weryfikacji loginów
-Program generuje loginy dla pracowników, weryfikuje siłę haseł oraz zarządza
-prostą bazą danych użytkowników w pliku tekstowym.
-
-DEFINICJE I ZASADY:
-1. LOGIN: Składa się z pierwszych 3 liter imienia, pierwszych 3 liter nazwiska
-   oraz ostatnich 3 cyfr identyfikatora.
-   Przykład: Karina Zieniewicz 044396 -> KarZie396.
-2. HASŁO: Musi mieć min. 8 znaków, zawierać małe i wielkie litery oraz cyfrę.
-3. BAZA DANYCH: Loginy i hasła są zapisywane w pliku tekstowym (format: login;hasło).
-
-CEL:
-Umożliwić rejestrację nowych użytkowników (zapis do pliku) oraz weryfikację
-istniejących (odczyt z pliku).
-"""
-
 import os
 
 DB_FILENAME = "users_db.txt"

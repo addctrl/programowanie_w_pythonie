@@ -1,10 +1,3 @@
-"""
-Zadanie 3:
-Program, który dla podanego roku i numeru dnia zwraca pełną datę
-oraz dzień tygodnia po polsku.
-Obsługuje lata przestępne i zakres 1900-2099.
-"""
-
 from datetime import date, timedelta
 import calendar
 

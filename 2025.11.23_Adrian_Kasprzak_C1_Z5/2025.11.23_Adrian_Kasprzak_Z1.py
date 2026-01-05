@@ -1,11 +1,3 @@
-
-"""
-Zadanie 1:
-Program edukacyjny prezentujący 6 typów wykresów funkcji kwadratowej.
-Wykorzystuje wektoryzację NumPy do błyskawicznego generowania danych.
-Układ 2x3 pozwala na bezpośrednie porównanie wpływu delty i współczynnika 'a'.
-"""
-
 import matplotlib.pyplot as plt
 import numpy as np
 

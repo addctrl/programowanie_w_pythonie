@@ -1,13 +1,4 @@
 
-"""
-Ćwiczenie C1: 
-Ciąg tekstowy T składa się z losowych cyfr i liter alfabetu angielskiego.
-Znajdź przynajmniej jeden najdłuższy podciąg ciągu T, który składa się z
-samych cyfr, przy czym te cyfry tworzą podciąg niemalejący.
-"""
-
-import sys
-
 def find_longest_non_decreasing_digits(text: str) -> str:
     """
     Znajduje najdłuższy podciąg cyfr w tekście, który jest niemalejący.

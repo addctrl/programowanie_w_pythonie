@@ -1,14 +1,3 @@
-"""
-Zadanie 4:
-Na podstawie pliku 'oceny.txt' odpowiedz na pytania:
-1. Ile jest przypadków braku ocen cząstkowych?
-2. Ile indywidualnych studentów jest w pliku?
-3. Ranking popularności przedmiotów.
-4. Średnie semestralne słuchaczy.
-5. Lista stypendystów.
-"""
-
-import sys
 import os
 
 INPUT_FILE = "oceny.txt"

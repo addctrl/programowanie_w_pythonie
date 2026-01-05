@@ -1,9 +1,3 @@
-"""
-ZADANIE Z3: Piramida liczbowa.
-Program pobiera od 5 do 10 liczb całkowitych i tworzy piramidę,
-gdzie każda liczba w wyższym rzędzie jest sumą dwóch liczb bezpośrednio pod nią.
-"""
-
 def main():
     print("--- Zadanie Z3: Piramida liczbowa ---")
     

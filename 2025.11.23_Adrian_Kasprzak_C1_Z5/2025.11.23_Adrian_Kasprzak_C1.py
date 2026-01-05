@@ -1,11 +1,3 @@
-"""
-
-Zadanie C1:
-Program rozwiązuje dowolne równanie kwadratowe wprowadzone przez użytkownika (współczynniki a, b, c).
-Zapewnia obsługę wyjątków oraz czytelny interfejs.
-Wykorzystuje bibliotekę sympy do obliczeń symbolicznych/dokładnych (również zespolonych).
-"""
-
 from sympy import symbols, solve, SympifyError, sympify, Symbol
 from typing import List
 

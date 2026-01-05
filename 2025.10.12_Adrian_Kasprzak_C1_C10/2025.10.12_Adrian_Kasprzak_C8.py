@@ -1,11 +1,3 @@
-"""
-ZADANIE C8:
-Napisz program, który sprawdza, czy liczba podana przez użytkownika jest
-półpierwsza (ang. semiprime).
-Liczba półpierwsza jest iloczynem dokładnie dwóch liczb pierwszych.
-Przykład: 34 = 17 * 2, 841 = 29 * 29.
-"""
-
 def is_semiprime(n):
     # Liczby mniejsze od 4 nie mogą być półpierwsze, bo najmniejsza to 2*2=4
     if n < 4:

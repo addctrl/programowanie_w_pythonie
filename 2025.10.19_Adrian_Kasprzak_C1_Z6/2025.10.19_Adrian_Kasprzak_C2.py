@@ -1,10 +1,3 @@
-"""
-ZADANIE C2:
-W pliku dane_c2.txt znajduje się w oddzielnych wierszach 100 par oddzielonych spacją liczb z przedziału [5, 500].
-Napisz program, który odczytuje dane z pliku wejściowego, a następnie przepisuje do pliku wyniki_c2.txt tylko te
-iloczyny par liczb zapisanych w kolejnych wierszach, które mieszczą się w przedziale [250, 10000].
-"""
-
 def main():
     print("--- Zadanie C2: Filtrowanie iloczynów ---")
 

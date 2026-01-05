@@ -1,18 +1,3 @@
-"""
-ZADANIE C3: 
-Liczby pierwsze - wyścig algorytmów
-Porównanie wydajności generowania liczb pierwszych metodą tradycyjną
-oraz Sitem Eratostenesa.
-
-ALGORYTMY:
-1. Metoda tradycyjna-brute force: Sprawdzanie dzielników każdego kandydata do sqrt(k).
-2. Sito Eratostenesa: Wykreślanie wielokrotności liczb w tablicy.
-
-WYMAGANIA:
-- Pomiar czasu z użyciem modułu time.
-- Obsługa błędów.
-"""
-
 import math
 import time
 

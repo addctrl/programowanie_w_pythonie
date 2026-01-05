@@ -1,22 +1,3 @@
-"""
-ZADANIE C2: 
-Problem lidera i cięcia taśmy
-Program znajduje liczbę sposobów przecięcia ciągu liczb na dwie części tak,
-aby na obu częściach występował ten sam lider (element dominujący).
-
-ALGORYTM:
-1. Liderem zbioru jest element występujący częściej niż k/2 razy.
-2. Warunek konieczny: aby liczba była liderem w obu podciągach, musi być
-   liderem całego ciągu.
-3. Obliczamy wystąpienia wszystkich liczb. Wyznaczamy lidera globalnego.
-4. Przechodzimy przez taśmę raz, zliczając wystąpienia lidera po lewej stronie
-   i sprawdzamy warunek dla obu stron dynamicznie.
-
-INPUT:
-Liczba elementów n (2 <= n <= 10000)
-Ciąg liczb całkowitych.
-"""
-
 from collections import Counter
 
 def solve_leader_cuts():

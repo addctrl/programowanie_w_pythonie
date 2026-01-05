@@ -1,11 +1,3 @@
-"""
-Ćwiczenie 5:
-Program symuluje rzut ukośny (bez oporu powietrza) dla wielu serii danych.
-Umożliwia porównanie trajektorii na jednym wykresie.
-Oblicza zasięg i maksymalną wysokość dla każdego rzutu.
-Zastępuje powolne pętle Pythona biblioteką NumPy.
-"""
-
 import math
 import matplotlib.pyplot as plt
 import numpy as np

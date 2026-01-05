@@ -1,16 +1,3 @@
-"""
-ZADANIE Z3: 
-Grafika rekurencyjna 
-Program generuje fraktalny wzór kół za pomocą rekurencji.
-
-ALGORYTM:
-Dla zadanego obszaru (x, y, rozmiar):
-1. Rysuje koło wpisane w ten obszar.
-2. Dzieli obszar na 4 ćwiartki.
-3. Wywołuje się rekurencyjnie dla każdej ćwiartki (z mniejszym rozmiarem).
-Warunek stopu: osiągnięcie zadanej głębokości (depth == 0).
-"""
-
 import tkinter as tk
 
 # Konfiguracja

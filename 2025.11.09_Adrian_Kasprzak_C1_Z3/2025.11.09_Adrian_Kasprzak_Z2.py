@@ -1,14 +1,3 @@
-"""
-ZADANIE Z2: 
-Analiza wypadków drogowych 
-
-LOGIKA:
-1. Wczytuje plik wiersz po wierszu.
-2. Parsuje: KOD_POWIATU (index 0) i LICZBA (index 2).
-3. Agreguje dane wg województw (pierwsza litera kodu) i powiatów.
-4. Generuje raport.
-"""
-
 import sys
 
 FILENAME = "wypadki.txt"

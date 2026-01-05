@@ -1,9 +1,3 @@
-"""
-Ćwiczenie 2:
-1. Utwórz pliki imiona.txt (imie;plec) i nazwiska.txt (meskie;zenskie).
-2. Napisz program generujący 50 unikalnych nazwisk i imion z uwzględnieniem płci.
-"""
-
 import random
 import os
 

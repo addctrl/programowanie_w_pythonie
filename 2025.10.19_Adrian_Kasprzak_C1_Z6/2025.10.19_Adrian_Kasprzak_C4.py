@@ -1,9 +1,3 @@
-"""
-ZADANIE C4:
-Znajdź w liście v wszystkie podciągi trójelementowe (trzy kolejne cyfry),
-które tworzą ciągi niemalejące.
-"""
-
 def main():
     # Dane wejściowe z treści zadania 
     v = [1, 2, 4, 3, 6, 8, 7, 7, 8, 3, 4, 5, 6, 7, 1, 3, 9, 1, 0, 4, 2, 3, 6, 9]

@@ -1,13 +1,3 @@
-"""
-ZADANIE C4: 
-Kod Graya 
-Program konwertuje liczby zapisane binarnie na kod Graya i odwrotnie,
-wykorzystując operacje logiczne XOR.
-
-INPUT:
-Ciąg znaków '0' i '1' (domyślnie 4-bitowy, ale kod obsłuży dowolną długość).
-"""
-
 def xor_char(a, b):
     """Pomocnicza funkcja XOR dla znaków '0' i '1'."""
     return '1' if a != b else '0'

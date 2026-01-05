@@ -1,21 +1,4 @@
-"""
-Zadanie Z5:
-Program przetwarza plik 'wyniki.txt' zawierający statystyki agentów.
-Realizuje 5 zadań analitycznych:
-1. Podaj listę osób (nazwa/numer agenta) o 10 najlepszych wynikach z pływania.
-2. Z którą umiejętnością agenci radzą sobie najlepiej (przeanalizuj arytmetyczną średnią punktów wszystkich agentów dla każ-
-dej umiejętności)?
-3. Wyświetl listę osób, które uzyskały najgorszy wynik z zakresu danej umiejętności (najgorszą osobę w pływaniu, najgorszą
-osobę w strzelaniu itd.). Jeżeli najgorszy wynik w danej kategorii osiągnęło więcej osób, pokaż je wszystkie.
-4. Przedstaw uporządkowane listy agentów od najlepszego do najgorszego dla wspinaczki, hakowania i wiedzy.
-5. Przyjmij, że inteligencja wpływa na tempo rozwoju takich umiejętności jak hakowanie i wiedza. Inteligencja jest niezmienna.
-Każde 10 punktów inteligencji powoduje rokroczny wzrost hakowania i wiedzy agenta o 1 punkt. Przykładowo: dla inteligen-
-cji wynoszącej 24 punkty, hakowanie i wiedza wzrosną po roku każda o 2 punkty. Ile wyniesie hakowanie każdego z agentów
-w 2030 roku? Na ile punktów zostanie obliczona wiedza agentów w 2040 roku?
-"""
-
 import os
-import math
 
 def load_agents(filename):
     agents = []

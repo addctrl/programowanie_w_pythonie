@@ -1,10 +1,3 @@
-"""
-ZADANIE C3:
-1. Utwórz plik dane_c3.txt z podaną listą słów.
-2. Wczytaj słowa i przepisz do wyniki_c3.txt tylko te, 
-   które mają parzystą liczbę znaków.
-"""
-
 def main():
     lista_slow = [
         "absolutny", "adapter", "adnotacja", "adres", "bariera", 

@@ -1,16 +1,3 @@
-"""
-Zadanie 4:
-Program wczytuje dane z pliku 'dane.txt'.
-Format: A \t B \t C \t id_osoby.
-Wartości liczbowe używają przecinka jako separatora dziesiętnego.
-
-Analiza obejmuje:
-1. Zliczanie wyników poniżej progu 10%.
-2. Znajdowanie osób o małym rozrzucie wyników (<= 2%).
-3. Ranking top 3 średnich po id.
-4. Znalezienie osoby z największą różnicą wyników.
-"""
-
 import os
 
 class StudentData:

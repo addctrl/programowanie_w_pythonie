@@ -1,13 +1,4 @@
-"""
-Ćwiczenie 3:
-Wczytaj dane z pliku dane_1.txt.
-Usuń z ciągu znaków wszystkie podciągi powtarzających się znaków (pozostaw tylko jeden).
-Zapisz wyniki do wyniki_c3.txt.
-Podaj przybliżony czas wykonania.
-"""
-
 import time
-import sys
 
 INPUT_FILE = "dane_1.txt"
 OUTPUT_FILE = "wyniki_c3.txt"

@@ -1,10 +1,3 @@
-"""
-Ćwiczenie 4:
-Program pobiera dwie funkcje liniowe/nieliniowe od użytkownika.
-1. Oblicza analitycznie punkt przecięcia.
-2. Rysuje wykres obu funkcji w bibliotece Matplotlib.
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from sympy import symbols, sympify, solve, lambdify, SympifyError

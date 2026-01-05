@@ -1,10 +1,3 @@
-"""
-ZADANIE C6:
-Napisz program tworzący i wypełniający tablicę jednowymiarową 25-elementową
-losowymi liczbami całkowitymi, a następnie wyszukujący największą liczbę
-w tej tablicy.
-"""
-
 import random
 
 CONF_SIZE = 25

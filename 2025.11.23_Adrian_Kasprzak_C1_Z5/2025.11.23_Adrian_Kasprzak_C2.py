@@ -1,10 +1,3 @@
-"""
-Ćwiczenie 2:
-Program rozwiązuje układy równań z 2, 3 lub 4 niewiadomymi.
-Użytkownik wybiera liczbę niewiadomych, a system dobiera odpowiednie symbole.
-Obsługuje błędy parsowania i brak rozwiązań.
-"""
-
 from sympy import symbols, solve, SympifyError, sympify
 from typing import Tuple
 

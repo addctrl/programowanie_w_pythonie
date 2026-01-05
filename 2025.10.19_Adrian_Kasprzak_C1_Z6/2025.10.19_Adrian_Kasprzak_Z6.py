@@ -1,19 +1,3 @@
-"""
-ZADANIE Z6:
-W pliku dane_z6.txt znajduje się pięćdziesiąt wierszy odwzorowujących dane dotyczące pewnego górskiego wyścigu kolarskiego.
-Każdy wiersz zawiera numer etapu z dwukropkiem oraz położenie wysokościowe odcinków danego etapu.
-
-DEFINICJE:
-1. Fragment danego etapu nazywamy PODJAZDEM, jeśli początek tego odcinka położony jest NIŻEJ niż jego koniec.
-   (np. 291 -> 468 to podjazd, bo 291 < 468).
-2. Fragment nazywamy ZJAZDEM, jeśli początek położony jest WYŻEJ niż jego koniec.
-   (np. 434 -> 365 to zjazd, bo 434 > 365).
-3. Odcinek PŁASKI (start == koniec) nie jest liczony ani jako podjazd, ani jako zjazd.
-
-CEL:
-Napisz program wypisujący numery tych etapów, w których podjazdów było MNIEJ niż zjazdów.
-"""
-
 def main():
     print("--- Zadanie Z6: Analiza trasy (Podjazdy vs Zjazdy) ---")
     

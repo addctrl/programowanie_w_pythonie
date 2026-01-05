@@ -1,11 +1,3 @@
-"""
-Zadanie 2:
-Program wczytuje wyrażenia w Odwrotnej Notacji Polskiej z pliku tekstowego.
-Wykorzystuje strukturę stosu (Stack) do obliczeń.
-Obsługuje operatory: +, -, *, /.
-Zabezpieczony przed dzieleniem przez zero i błędami składni.
-"""
-
 import os
 from typing import List
 

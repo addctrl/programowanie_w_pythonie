@@ -1,13 +1,3 @@
-"""
-ZADANIE C1:
-Napisz program, który na podstawie podanej przez użytkownika liczby sekund 
-wypisuje na ekranie, ile to jest dni, godzin, minut i sekund.
-
-Zasady przesyłania: 
-- Nazwa pliku: RRRR.MM.DD_Imie_Nazwisko_C1.py
-- Brak polskich znaków w nazwach plików.
-"""
-
 def main():
     print("===KONWERTER SEKUND===")
 

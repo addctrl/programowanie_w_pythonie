@@ -1,10 +1,3 @@
-"""
-ZADANIE C3 (Rozszerzone):
-Napisz program, który rozwiązuje równanie kwadratowe. 
-Dodatkowo: obsługuje liczby rzeczywiste oraz zespolone dla delty ujemnej.
-Współczynniki (a, b, c) podaje użytkownik.
-"""
-
 import cmath 
 
 def main():

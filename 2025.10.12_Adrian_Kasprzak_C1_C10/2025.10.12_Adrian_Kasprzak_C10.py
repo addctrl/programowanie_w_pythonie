@@ -1,13 +1,3 @@
-"""
-ZADANIE C10:
-Obliczanie przybliżonej wartości liczby Pi z wykorzystaniem wzoru Newtona.
-Program ma ustalić, dla jakiego najmniejszego k otrzymamy przybliżenie
-z dokładnością do 9 miejsc po przecinku.
-
-Wzór: pi/2 = sum( k! / (2k+1)!! ) od k=0 do nieskończoności.
-Wymagana implementacja rekurencyjna silni podwójnej.
-"""
-
 import math
 import sys
 

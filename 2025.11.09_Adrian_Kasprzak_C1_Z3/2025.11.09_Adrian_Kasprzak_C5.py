@@ -1,18 +1,3 @@
-"""
-ZADANIE C5: 
-Szyfr at Bash
-Program szyfrujący i deszyfrujący tekst za pomocą monoalfabetycznego
-szyfru podstawieniowego at bash.
-
-ZASADA DZIAŁANIA:
-Zamiana litery leżącej w odległości X od początku alfabetu na literę
-leżącą w odległości X od jego końca (np. A <-> Z, B <-> Y).
-
-WYMAGANIA:
-- Obsługa wyłącznie wielkich liter alfabetu angielskiego.
-- Obsługa błędów i czytelny interfejs.
-"""
-
 def atbash_cipher(text):
     """
     Szyfruje lub deszyfruje tekst metodą At Bash.

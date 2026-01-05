@@ -1,9 +1,3 @@
-"""
-ZADANIE Z5: Szyfr Płotowy.
-Program szyfruje i deszyfruje tekst metodą płotową.
-Klucz to wysokość płotu (liczba wierszy).
-"""
-
 def szyfruj_plot(tekst_jawny, wysokosc):
     """
     Szyfrowanie: Układa litery w zygzak i odczytuje wierszami.

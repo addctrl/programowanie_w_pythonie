@@ -1,9 +1,3 @@
-"""
-ZADANIE Z4: Ułamki łańcuchowe.
-Program rozkłada ułamek l/m na ułamek łańcuchowy.
-Wymagana rekurencja oraz sprawdzenie, czy liczby są względnie pierwsze.
-"""
-
 import sys
 
 # Zwiększamy limit rekurencji dla bezpieczeństwa, choć przy intach rzadko potrzebne

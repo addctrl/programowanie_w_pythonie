@@ -1,11 +1,3 @@
-"""
-Ćwiczenie C4:
-Oblicz wartość sqrt(13) oraz PI wykorzystując podane ułamki łańcuchowe.
-O dokładności obliczeń decyduje użytkownik.
-"""
-
-import sys
-
 def calculate_sqrt13(precision_scale: int):
     """
     Oblicza sqrt(13) iteracyjnie.

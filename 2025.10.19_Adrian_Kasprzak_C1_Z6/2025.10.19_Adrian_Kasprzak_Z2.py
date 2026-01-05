@@ -1,9 +1,3 @@
-"""
-ZADANIE Z2: Liczby beta-super-pierwsze.
-Program sprawdza, czy liczba jest liczbą pierwszą ORAZ czy suma cyfr
-jej zapisu binarnego też jest liczbą pierwszą.
-"""
-
 def czy_pierwsza(n):
     """
     Funkcja pomocnicza sprawdzająca, czy liczba n jest pierwsza.

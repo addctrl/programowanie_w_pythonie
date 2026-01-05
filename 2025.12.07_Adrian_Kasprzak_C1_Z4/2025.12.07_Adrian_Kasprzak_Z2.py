@@ -1,14 +1,3 @@
-"""
-Zadanie 2:
-Program szyfrujący i deszyfrujący tekst za pomocą szyfru afinicznego.
-Funkcja szyfrująca: E(x) = (ax + b) mod 26
-Funkcja deszyfrująca: D(x) = a**(-1) * (x - b) mod 26
-
-WARUNEK KONIECZNY:
-Liczba 'a' musi być względnie pierwsza z 26 (NWD(a, 26) == 1).
-"""
-
-import sys
 import math
 
 # Stały tekst z zadania

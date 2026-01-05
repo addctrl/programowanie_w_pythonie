@@ -1,13 +1,3 @@
-"""
-ZADANIE Z1: Analiza obrazu (dane_z1.txt)
-Obraz: 320 kolumn x 200 wierszy.
-Piksele: 0-255.
-
-1. Najjaśniejszy (max) i najciemniejszy (min) piksel.
-2. Ile wierszy usunąć, by obraz miał pionową oś symetrii.
-3. Liczba pikseli kontrastujących (różnica > 128 z dowolnym sąsiadem).
-"""
-
 def main():
     print("--- Zadanie Z1: Analiza obrazu ---")
     

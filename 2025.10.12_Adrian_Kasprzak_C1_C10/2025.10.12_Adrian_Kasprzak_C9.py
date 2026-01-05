@@ -1,10 +1,3 @@
-"""
-ZADANIE C9:
-Napisz program, który sprawdza, czy 10-cyfrowa wartość wprowadzona przez
-użytkownika reprezentuje poprawny identyfikator ISBN-10.
-Zasada: Suma cyfr pomnożonych przez wagi od 10 do 1 musi dzielić się przez 11.
-"""
-
 def validate_isbn10(isbn):
     # Czyszczenie numeru ISBN z myślników i spacji
     clean_isbn = isbn.replace("-", "").replace(" ", "")

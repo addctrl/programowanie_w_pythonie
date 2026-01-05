@@ -1,19 +1,3 @@
-"""
-ZADANIE C4 :
-Napisz rekurencyjnie cztery funkcje, które generują następujące ciągi 
-n-elementowe:
-    a. (3; 6; 9; 12; 15; 18; 21; 24...)
-    b. (8; -4; 2; -1; 0,5; -0,25; 0,125...)
-    c. (2; 6; 3; 7; 4; 8; 5; 9; 6; 10; 7; 11...)
-    d. (1; 2; -4; -3; -1; -5; -8; -9; -14...)
-(liczbę n podaje użytkownik).
-Ad. 
-Zamiast skupić się na samej rekurencji, użyłem dekoratora @lru_cache, który
-zapamiętuje wyniki funkcji i nie powtarza ich obliczeń. Chciałem znaleźć sposób na 
-optymalizację złozoności algorytmu rekurencyjnego wykorzystując do tego wbudowane 
-moduły Pythona. 
-"""
-
 import sys
 from functools import lru_cache
 

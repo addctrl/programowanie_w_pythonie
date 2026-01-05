@@ -1,11 +1,3 @@
-"""
-ZADANIE C7:
-Napisz program tworzący i wypełniający tablicę jednowymiarową 10-elementową
-losowymi liczbami całkowitymi, a następnie przesuwający wszystkie elementy
-o jeden w prawo. Ostatni element tablicy powinien znaleźć się na początku,
-w komórce o indeksie 0.
-"""
-
 import random
 
 # Konfiguracja

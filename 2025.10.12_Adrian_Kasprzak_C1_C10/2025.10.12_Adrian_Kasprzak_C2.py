@@ -1,10 +1,3 @@
-"""
-ZADANIE C2:
-Napisz program, który sprawdza, czy podany przez użytkownika rok jest przestępny. 
-Rok przestępny musi się dzielić bez reszty przez 4, zaś pełne stulecia przez 400 
-oraz ma swój początek w roku 1582, bo wtedy po raz pierwszy go wprowadzono.
-"""
-
 def main():
     print("=== Sprawdzanie roku przestępnego ===")
     
